@@ -37,7 +37,10 @@ ElevateAI's API offers a host of benefits, including:
 <p align="center">
     <img src="https://raw.githubusercontent.com/NICEElevateAI/NICEElevateAI/main/images/elevate-data-flow.png" />
 </p>
-    
+
+## // Free Plan
+ElevateAI's free plan includes 1,000 free transcriptions and CX AI insights every day.
+
 ## // Libraries
 <p>ElevateAI provides libraries to interact with the API. Currently, <a href="https://github.com/NICEElevateAI/ElevateAI.SDK">.NET</a>, <a href="https://github.com/NICEElevateAI/ElevateAIPythonSDK">Python</a>, and <a href="https://github.com/NICEElevateAI/ElevateAI.SDK">Java</a> are supported.</p>
 
